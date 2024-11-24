@@ -13,10 +13,10 @@ sudo mv daemonize /usr/bin/
 
 ## Usage
 
-To use `Daemonize`, simply run the script with the application or script you want to convert:
+To use `Daemonize`, simply run the script and let it guide you through the process.
 
 ```sh
-sudo daemonize your_script.sh
+sudo daemonize 
 ```
 
 ## License
