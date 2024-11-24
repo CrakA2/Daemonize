@@ -4,9 +4,10 @@
 
 ## Installation
 
-To install `Daemonize`, move the script to `/usr/bin`:
+To install `Daemonize`, download the script from the releases page and move it to `/usr/bin`:
 
 ```sh
+curl https://github.com/CrakA2/Daemonize/releases/download/beta/daemonize -O daemonize
 sudo mv daemonize /usr/bin/
 ```
 
